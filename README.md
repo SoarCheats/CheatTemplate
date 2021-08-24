@@ -6,6 +6,9 @@ if your new to making cheats test this out
 and if you want change the title thang to your discord 
 if you dont credit me your a bitch
 
+btw the injection dosent work 
+fix it yourself thats a challenge ;)
+
 # some other shit you should know ;)
 
 I SWEAR ON MY FUCKING LIFE IF YOU SELL THIS I WILL BUTT FUCK YOU IF YOU DIDNT CREDIT ME BRUH
