@@ -1,0 +1,6 @@
+C:\Users\Soars Coding Bot\source\repos\WeAreBlack\WeAreBlack\obj\Debug\cheatexample.csproj.CoreCompileInputs.cache
+C:\Users\Soars Coding Bot\source\repos\WeAreBlack\WeAreBlack\bin\Debug\MyCheat.exe.config
+C:\Users\Soars Coding Bot\source\repos\WeAreBlack\WeAreBlack\bin\Debug\MyCheat.exe
+C:\Users\Soars Coding Bot\source\repos\WeAreBlack\WeAreBlack\bin\Debug\MyCheat.pdb
+C:\Users\Soars Coding Bot\source\repos\WeAreBlack\WeAreBlack\obj\Debug\MyCheat.exe
+C:\Users\Soars Coding Bot\source\repos\WeAreBlack\WeAreBlack\obj\Debug\MyCheat.pdb

@@ -1,0 +1,7 @@
+C:\Users\Soars Coding Bot\source\repos\WeAreBlack\WeAreBlack\bin\Debug\WeAreBlack.exe.config
+C:\Users\Soars Coding Bot\source\repos\WeAreBlack\WeAreBlack\bin\Debug\WeAreBlack.exe
+C:\Users\Soars Coding Bot\source\repos\WeAreBlack\WeAreBlack\bin\Debug\WeAreBlack.pdb
+C:\Users\Soars Coding Bot\source\repos\WeAreBlack\WeAreBlack\obj\Debug\WeAreBlack.csproj.AssemblyReference.cache
+C:\Users\Soars Coding Bot\source\repos\WeAreBlack\WeAreBlack\obj\Debug\WeAreBlack.csproj.CoreCompileInputs.cache
+C:\Users\Soars Coding Bot\source\repos\WeAreBlack\WeAreBlack\obj\Debug\WeAreBlack.exe
+C:\Users\Soars Coding Bot\source\repos\WeAreBlack\WeAreBlack\obj\Debug\WeAreBlack.pdb
